@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShIKULJAK
 - 👀 I’m interested in frontend, web design, graphic design, photography
-- 🌱 I’m currently learning HTML/CSS, SCSS, BOOTSTRAP, JAVASCRIPT
+- 🌱 I’m currently learning HTML/CSS, SCSS, BOOTSTRAP, JAVASCRIPT, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me boris_sikuljak@hotmail.com
 
