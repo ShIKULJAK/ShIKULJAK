@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ShIKULJAK
 - 👀 I’m interested in frontend, web design, graphic design, photography
-- 🌱 I’m currently learning HTML/CSS, SCSS, BOOTSTRAP, JAVASCRIPT, React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me boris_sikuljak@hotmail.com
+- 🌱 I’m junior frontend developer.
+- 📚 My stack: HTML/CSS, SCSS,Bootstrap,Tailwind,Javascript,Typescript,React,Next.js,Redux,ReduxToolkit
+- 💞️ I’m open to work.
+- 📫 How to reach me boris.sikuljak@gmail.com
 
 <!---
 ShIKULJAK/ShIKULJAK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
